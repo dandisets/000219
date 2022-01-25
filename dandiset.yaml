@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000219
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -22,18 +23,26 @@ contributor:
 dateCreated: '2022-01-25T13:01:59.537848+00:00'
 description: We performed in vivo 2-photon calcium imaging in the CA1 region of the
   hippocampus in awake mouse pups aged between 5 and 12 days postnatal. We used GCaMP6s
-  calcium indicator in WT mice or GCaMP6s and flx-tdTomato in GadCre mice to record
+  calcium indicator in WT mice or GCaMP6s and flex-tdTomato in GadCre mice to record
   calcium dynamics from both pyramidal cells and interneurons. The imaging data set
   was acquired at 8 Hz, in field of view of 400x400 µm. Simultaneously with imaging,
   we record the spontaneous motor behavior of the mouse pups.
+ethicsApproval: []
 id: DANDI:000219/draft
 identifier: DANDI:000219
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000219/versions/draft/assets/
 name: Two photon calcium imaging in the CA1 region of the hippocampus in neonatal
   mice.
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.2
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000219/draft
 version: draft
+wasGeneratedBy: []

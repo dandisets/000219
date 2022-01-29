@@ -61,7 +61,13 @@ manifestLocation:
 name: Two photon calcium imaging in the CA1 region of the hippocampus in neonatal
   mice.
 protocol: []
-relatedResource: []
+relatedResource:
+- identifier: https://gitlab.com/cossartlab/cicada
+  name: Codes for analysis
+  relation: dcite:IsSupplementedBy
+  repository: CICADA
+  schemaKey: Resource
+  url: https://gitlab.com/cossartlab/cicada
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.2

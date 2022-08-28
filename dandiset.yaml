@@ -69,7 +69,13 @@ relatedResource:
   repository: CICADA
   schemaKey: Resource
   url: https://gitlab.com/cossartlab/cicada
-repository: https://dandiarchive.org/
+- name: The rapid developmental rise of somatic inhibition disengages hippocampal
+    dynamics from self-motion
+  relation: dcite:IsPublishedIn
+  repository: eLife
+  schemaKey: Resource
+  url: https://elifesciences.org/articles/78116
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []

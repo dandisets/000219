@@ -36,8 +36,8 @@ assetsSummary:
   - BehavioralTimeSeries
   - ProcessingModule
 citation: Dard, Robin; Picardo, Michel; Cossart, Rosa (2026) Two photon calcium imaging
-  in the CA1 region of the hippocampus in neonatal mice (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/000219/draft
+  in the CA1 region of the hippocampus in neonatal mice (Version 0.260826.1155) [Data
+  set]. DANDI Archive. https://doi.org/10.48324/dandi.000219/0.260826.1155
 contributor:
 - affiliation: []
   email: dardrobin@gmail.com
@@ -58,23 +58,37 @@ contributor:
   name: Cossart, Rosa
   schemaKey: Person
 dateCreated: '2022-01-25T13:01:59.537848+00:00'
+datePublished: '2026-08-26T11:55:23.484145+00:00'
 description: We performed in vivo 2-photon calcium imaging in the CA1 region of the
   hippocampus in awake mouse pups aged between 5 and 12 days postnatal. We used GCaMP6s
   calcium indicator in WT mice or GCaMP6s and flex-tdTomato in GadCre mice to record
   calcium dynamics from both pyramidal cells and interneurons. The imaging data set
   was acquired at 8 Hz, in field of view of 400x400 µm. Simultaneously with imaging,
   we record the spontaneous motor behavior of the mouse pups.
+doi: 10.48324/dandi.000219/0.260826.1155
 ethicsApproval: []
-id: DANDI:000219/draft
+id: DANDI:000219/0.260826.1155
 identifier: DANDI:000219
 keywords:
 - Hippocampus, Development, 2-photon
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000219/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000219/0.260826.1155/assets.yaml
 name: Two photon calcium imaging in the CA1 region of the hippocampus in neonatal
   mice.
+publishedBy:
+  endDate: '2026-08-26T11:55:23.484145+00:00'
+  id: urn:uuid:98e5b2dd-0af3-4659-9c96-1bd91c365661
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-08-26T11:55:23.484145+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7aec07ed-f582-482f-ba5d-c2456b320c09
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://gitlab.com/cossartlab/cicada
   name: Codes for analysis
@@ -91,6 +105,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
-url: https://dandiarchive.org/dandiset/000219/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000219/0.260826.1155
+version: 0.260826.1155
 wasGeneratedBy: []
